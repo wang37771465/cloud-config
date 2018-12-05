@@ -16,5 +16,5 @@ spring:
 env: test
 
 user:
-  name: wangwu
-  age: 26
+  name: wangwu2
+  age: 54
