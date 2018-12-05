@@ -8,5 +8,5 @@ spring:
 env: test
 
 user:
-  name: lili
+  name: lili2
   age: 15
