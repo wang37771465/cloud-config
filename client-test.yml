@@ -12,8 +12,8 @@ spring:
     port: 5672
     username: admin
     password: admin
-env:
-    test555
+    
+env: test555
 
 user:
   name: lisi
