@@ -1,0 +1,20 @@
+server:
+  port: 8882
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+spring:
+  application:
+    name: client
+  rabbitmq:
+    host: 192.168.102.223
+    port: 5672
+    username: admin
+    password: admin
+env:
+    test666
+
+user:
+  name: james
+  age: 32
