@@ -9,5 +9,5 @@ spring:
 env: test
 
 user:
-  name: laowang13
-  age: 33
+  name: zhangsan
+  age: 12
